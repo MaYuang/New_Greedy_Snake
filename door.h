@@ -13,4 +13,4 @@ private:
     void setStatus();
 };
 
-#endif // DOOR_H
+#endif // DOOR_
